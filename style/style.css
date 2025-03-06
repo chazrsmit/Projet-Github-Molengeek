@@ -4,3 +4,9 @@
 .card-body {
 	padding: 5px;
 }
+
+.form-container {
+    max-width: 100px; /* Adjust the width as needed */
+    margin: 0 auto; /* Centers the form */
+    padding: 10px; /* Adds spacing */
+}
